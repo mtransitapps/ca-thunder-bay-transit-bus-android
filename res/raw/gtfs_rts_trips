@@ -1,0 +1,30 @@
+101,0,'Current River',1
+100,0,'Westfort',1
+200,0,'City Hall',2
+201,0,'Waterfront',2
+400,0,'Neebing',4
+600,0,'Mission',6
+700,0,'Shuniah',7
+701,0,'Waterfront',7
+801,0,'City Hall',8
+800,0,'College / Intercity',8
+900,0,'University / Intercity',9
+901,0,'Waterfront',9
+1101,0,'Waterfront',11
+1100,0,'Windsor',11
+1200,0,'East End',12
+1300,0,'County Fair',13
+1301,0,'Waterfront',13
+2000,0,'Express',20
+100300,0,'Airport',1003
+100301,0,'City Hall',1003
+300300,0,'Castlegreen',3003
+300301,0,'Waterfront',3003
+1000301,0,'Sherwood',10003
+1000300,0,'Waterfront',10003
+1300300,0,'City Hall',13003
+1300301,0,'Waterfront',13003
+1400300,0,'City Hall',14003
+1400301,0,'College',14003
+2300200,0,'Waterfront (College)',23002
+2300201,0,'Westfort',23002
