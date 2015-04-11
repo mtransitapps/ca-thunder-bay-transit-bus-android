@@ -5,7 +5,7 @@ Thunder Bay Transit buses for MonTransit BETA
 Schedule. Tweets from @tbaytransit
 ----------
 What's new in this version?:
-Schedule from February 18, 2015 to May 28, 2015.
+Schedule from April 3, 2015 to July 11, 2015.
 
 BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 ----------
