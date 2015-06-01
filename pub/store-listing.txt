@@ -2,10 +2,11 @@ Title: Thunder Bay Transit Bus - Mon…
 ----------
 Short description:
 Thunder Bay Transit buses for MonTransit.
-Schedule. Tweets from @tbaytransit
+Schedule. News.
 ----------
 What's new in this version?:
 Schedule from May 24, 2015 to November 18, 2015.
+Tweets from @tbaytransit.
 ----------
 Full description:
 This application adds Thunder Bay Transit buses information to MonTransit.
