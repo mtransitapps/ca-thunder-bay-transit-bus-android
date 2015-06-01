@@ -1,26 +1,22 @@
 Title: Thunder Bay Transit Bus - Mon…
 ----------
 Short description:
-Thunder Bay Transit buses for MonTransit BETA
+Thunder Bay Transit buses for MonTransit.
 Schedule. Tweets from @tbaytransit
 ----------
 What's new in this version?:
 Schedule from May 24, 2015 to November 18, 2015.
-
-BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 ----------
 Full description:
-This application adds Thunder Bay Transit buses information to MonTransit BETA.
+This application adds Thunder Bay Transit buses information to MonTransit.
 
 This app contains the buses schedule and the latest news from @tbaytransit on Twitter.
 
-BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
-
 Thunder Bay Transit serves Thunder Bay in Ontario, Canada.
 
-Once this application is installed, the MonTransit BETA app will display buses information (schedule...).
+Once this application is installed, the MonTransit app will display buses information (schedule...).
 
-This application only has a temporary icon and no screen: download the MonTransit BETA app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
+This application only has a temporary icon and no screen: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
 
 You can install this application on the SD card but it is not recommended.
 
