@@ -2,16 +2,17 @@ Title: Thunder Bay Transit Bus - Mon…
 ----------
 Short description:
 Thunder Bay Transit buses for MonTransit.
-Schedule. News.
+Schedule. Alerts. News.
 ----------
 What's new in this version?:
-Schedule from May 24, 2015 to November 18, 2015.
+Schedule from June 10, 2015 to December 6, 2015.
+Real-time service alerts from nextlift.ca.
 Tweets from @tbaytransit.
 ----------
 Full description:
 This application adds Thunder Bay Transit buses information to MonTransit.
 
-This app contains the buses schedule and the latest news from @tbaytransit on Twitter.
+This app contains the buses schedule as well as real time service alerts and the latest news from @tbaytransit on Twitter.
 
 Thunder Bay Transit serves Thunder Bay in Ontario, Canada.
 
@@ -30,7 +31,7 @@ https://github.com/mtransitapps/ca-thunder-bay-transit-bus-android
 This app is not related with Thunder Bay Transit.
 
 Permissions:
-- Other: required to read news (Twitter)
+- Other: required to read real time service alerts from nextlift.ca and to read news (Twitter)
 ----------
 Application type: Applications
 ----------
