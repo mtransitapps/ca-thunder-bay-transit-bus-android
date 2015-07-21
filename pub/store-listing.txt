@@ -5,7 +5,7 @@ Thunder Bay Transit buses for MonTransit.
 Schedule. Alerts. News.
 ----------
 What's new in this version?:
-Schedule from June 10, 2015 to December 6, 2015.
+Schedule from July 21, 2015 to January 1, 2016.
 Real-time service alerts from nextlift.ca.
 Tweets from @tbaytransit.
 ----------
