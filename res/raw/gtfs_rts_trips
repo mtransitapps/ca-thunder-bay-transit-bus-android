@@ -2,21 +2,24 @@
 100,0,'Westfort',1
 200,0,'College',2
 201,0,'Waterfront',2
-400,0,'Neebing',4
+401,1,'E',4
+402,1,'W',4
 500,0,'College',5
 501,0,'Westfort',5
-600,0,'Mission',6
+601,0,'Anemki',6
+600,0,'Frederica & Brown',6
 700,0,'Shuniah',7
 701,0,'Waterfront',7
 801,0,'City Hall',8
-800,0,'College / Intercity',8
-900,0,'University / Intercity',9
+800,0,'Intercity',8
+900,0,'Intercity',9
 901,0,'Waterfront',9
 1001,0,'City Hall',10
 1000,0,'College',10
 1101,0,'Waterfront',11
 1100,0,'Windsor',11
-1200,0,'East End',12
+1201,0,'City Hall',12
+1200,0,'Intercity',12
 1300,0,'County Fair',13
 1301,0,'Waterfront',13
 1400,0,'Airport',14
