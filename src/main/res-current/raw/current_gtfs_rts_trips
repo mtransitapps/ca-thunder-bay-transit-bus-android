@@ -1,30 +1,27 @@
-101,0,'Current River',1
-100,0,'Westfort',1
-201,0,'Waterfront',2
-200,0,'Westfort',2
-401,1,'E',4
-402,1,'W',4
-501,0,'Waterfront',5
-500,0,'Westfort',5
-601,0,'Anemki',6
-600,0,'Frederica & Brown',6
-700,0,'Shuniah St',7
-701,0,'Waterfront',7
-801,0,'City Hall',8
-800,0,'Intercity',8
-900,0,'Intercity',9
-901,0,'Waterfront',9
-1000,0,'College',10
-1001,0,'County Pk',10
-1201,0,'City Hall',12
-1200,0,'Intercity',12
-1300,0,'County Fair',13
-1301,0,'Waterfront',13
-1400,0,'Airport',14
-1401,0,'City Hall',14
-1601,0,'City Hall',16
-1600,0,'College',16
-300300,0,'Castlegreen Dr',3003
-300301,0,'Northwood',3003
-1300300,0,'City Hall',13003
-1300301,0,'Waterfront',13003
+1029,0,'City Hall',1
+1019,0,'Current River',1
+2029,0,'Waterfront',2
+2019,0,'Westfort',2
+4019,0,'Neebing',4
+5019,0,'Waterfront',5
+5029,0,'Westfort',5
+6019,0,'Mission Rd',6
+7029,0,'Shuniah St',7
+7019,0,'Waterfront',7
+8029,0,'City Hall',8
+8019,0,'Intercity',8
+9019,0,'Intercity',9
+9029,0,'Waterfront',9
+10019,0,'City Hall',10
+10029,0,'College',10
+12019,0,'City Hall',12
+13029,0,'County Fair',13
+13019,0,'Waterfront',13
+14029,0,'Airport',14
+14019,0,'City Hall',14
+16019,0,'City Hall',16
+16029,0,'College',16
+3003029,0,'Castlegreen Dr',3003
+3003019,0,'Waterfront',3003
+13003019,0,'City Hall',13003
+13003029,0,'Waterfront',13003
