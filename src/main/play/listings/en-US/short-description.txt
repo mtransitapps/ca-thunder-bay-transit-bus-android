@@ -1,2 +1,1 @@
-Thunder Bay Transit buses for MonTransit.
-Schedule. Alerts. News.
+Thunder Bay Transit buses for MonTransit. Schedule. Alerts. News.
