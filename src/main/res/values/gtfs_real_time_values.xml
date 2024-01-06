@@ -6,7 +6,7 @@
     <bool name="gtfs_real_time_stop_id_is_stop_code">false</bool>
     <string name="gtfs_real_time_agency_service_alerts_url">http://api.nextlift.ca/gtfs-realtime/alerts.pb</string>
     <string name="gtfs_real_time_agency_id">0</string>
-    <string name="gtfs_real_time_agency_bold_words">(late|no service|service delay|out of service|temporary stops|delay|cancel[\\S]*)</string>
+    <string name="gtfs_real_time_agency_bold_words" />
     <string-array name="gtfs_real_time_agency_extra_languages"></string-array>
     <string-array name="gtfs_real_time_agency_extra_bold_words"></string-array>
     <string name="gtfs_real_time_agency_time_regex"></string>
