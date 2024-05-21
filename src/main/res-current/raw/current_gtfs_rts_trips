@@ -23,9 +23,13 @@
 14019,0,'City Hall',14
 16019,0,'City Hall',16
 16029,0,'College',16
+17019,0,'Cowan',17
+17029,0,'Waterfront',17
+18019,0,'City Hall',18
+18029,0,'Mary',18
 30003029,0,'Castlegreen Dr',30003
 30003019,0,'Northwood',30003
 100003019,0,'Airport',100003
 100003029,0,'Sherwood Dr',100003
+130003019,0,'Airport / Northwood',130003
 130003029,0,'County Pk',130003
-130003019,0,'Northwood',130003
