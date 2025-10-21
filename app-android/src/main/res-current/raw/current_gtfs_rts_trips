@@ -1,6 +1,5 @@
 1019,0,'City Hall',1
 1029,0,'Waterfront',1
-2029,0,'Waterfront',2
 2019,0,'Westfort',2
 4019,0,'Neebing',4
 5019,0,'Waterfront',5
@@ -9,7 +8,6 @@
 7019,0,'Shuniah St',7
 7029,0,'Waterfront',7
 8019,0,'City Hall',8
-8029,0,'Intercity',8
 9019,0,'University',9
 9029,0,'Waterfront',9
 10029,0,'College',10
