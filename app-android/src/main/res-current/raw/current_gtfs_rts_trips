@@ -1,6 +1,6 @@
 1019,0,'City Hall',1
 1029,0,'Waterfront',1
-2019,0,'Waterfront',2
+2019,0,'Westfort',2
 4019,0,'Neebing',4
 5019,0,'Waterfront',5
 5029,0,'Westfort',5
@@ -31,5 +31,5 @@
 30003019,0,'Northwood',30003
 100003019,0,'Airport',100003
 100003029,0,'Sherwood Dr',100003
-130003019,0,'Airport/Northwood',130003
 130003029,0,'County Pk',130003
+130003019,0,'Northwood',130003

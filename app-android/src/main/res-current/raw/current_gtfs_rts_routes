@@ -1,5 +1,5 @@
 1,'1','Waterfront <> City Hall','EF4135',49,3
-2,'2','Waterfront','13B5EA',50,3
+2,'2','Westfort','13B5EA',50,3
 4,'4','Neebing','F26531',52,3
 5,'5','Westfort <> Waterfront','936FB1',53,3
 6,'6','Mission Rd','9C0059',54,3
@@ -17,4 +17,4 @@
 18,'18','City Hall <> Mary','CC667A',1575,3
 30003,'3C','Northwood <> Castlegreen Dr','9B7D0D',1648,3
 100003,'3J','Sherwood Dr <> Airport','EE2B74',1655,3
-130003,'3M','Airport/Northwood <> County Pk','E58E1A',1658,3
+130003,'3M','Northwood <> County Pk','E58E1A',1658,3
